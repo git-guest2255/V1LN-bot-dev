@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Privacy Policy</title>
+</head>
+<body>
+    <h1>Privacy Policy</h1>
+    <ol>
+      <p>This bot may store limited information necessary for its functionality, such as:</p>
+      <li>Discord User IDs</li>
+      <li>Server IDs</li>
+      <li>Channel IDs</li>
+      <li>Bot configuration data</li>
+    </ol>
+  <p>No personal information is sold or shared with third parties.</p>
+  <p>Data is only used to provide the bot's features and may be deleted upon request where applicable.</p>
+</body>
+</html>
